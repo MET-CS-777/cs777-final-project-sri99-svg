@@ -1,0 +1,9 @@
+@"
+# ignore heavy data and run outputs
+data/*.parquet
+data/**/*.parquet
+data/runs/
+*.zip
+*.tmp
+.DS_Store
+"@ | Out-File -Encoding utf8 .\.gitignore -Force
