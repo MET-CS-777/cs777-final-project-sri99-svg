@@ -3,7 +3,7 @@
 
 **Project:** CityEats Recommender (PySpark ALS)  
 **Student:** Srivatsav Shrikanth (sri99-svg)  
-**Date:** <MM/DD/YYYY>
+**Date:** 10/14/2025
 
 ---
 
