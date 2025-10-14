@@ -9,7 +9,7 @@
 ## Small Sample
 - `data/sample/SAMPLE_RATINGS.csv` (included here) with the same schema and a few rows.
 
-##Large Sample from which data was cleaned and used for the project
+## Large Sample from which data was cleaned and used for the project
 - `http://files.grouplens.org/datasets/movielens/ml-20m.zip`
 
 ## Notes
